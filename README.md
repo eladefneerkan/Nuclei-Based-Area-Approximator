@@ -1,6 +1,6 @@
 # Nuclei Based Area Approximator
 
-How To Run
+**How To Run**
 
 -Launch ImageJ (Fiji)
 
@@ -13,11 +13,11 @@ How To Run
   -Select the folder that has the .czi images in its current directory
 
 
-How To Change the Output Folder Name
+**How To Change the Output Folder Name**
 
 -There is a string variable right underneath the thresholds
 
 
-How To Change Remove Outputs
+**How To Change Remove Outputs**
 
 -Comment the outputs out right before the cleanup
